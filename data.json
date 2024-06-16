@@ -1,0 +1,594 @@
+{
+  "data": {
+    "books": [
+      {
+        "author": {
+          "first_name": "Charles",
+          "last_name": "Dickens"
+        },
+        "review": {
+          "name": "Henk",
+          "body": "Heartwarming, atmospheric and sweet\nBest and happiest of all, the time before him was his own, to make amends in!\n‘I will live in the past, present and future!’\nI don't have much to say about A Christmas Carol that has not been said a thousand times. I found it a lovely, atmospheric read, with a satisfying turn around of Scrooge from his initial chagrin. Maybe in a modern book such a full reversal would be deemed saccharine and for naive children but I feel Charles Dickens did an excellent job of offering hope of redemption and betterment in this novella. What could be more Christmas like?\nAnd besides, he is genuinely funny, making Scrooge for instance almost say the following to a supernatural apparition:\nHe then made bold to inquire what business brought him here.‘Your welfare’ said the ghost.\nScrooge expressed himself much obliged, but could not help thinking that a night of unbroken rest would have been more conducive to that end."
+        },
+        "_id": "65431e0e4213085b6a7cb27d",
+        "book_id": 18,
+        "title": "A Christmas Carol",
+        "pages": 80,
+        "genres": [
+          "Classics",
+          "Historical",
+          "Literature",
+          "Historical fiction",
+          "Fiction",
+          "Fantasy",
+          "19th Century",
+          "Christmas"
+        ],
+        "rating": 4.07,
+        "plot": "A Christmas Carol is a novella by Charles Dickens about Ebenezer Scrooge, an old man, who is well-known for his miserly ways.\nOn Christmas Eve, Scrooge is visited by a series of ghosts, starting with his old business partner, Jacob Marley. The three spirits which follow, the Ghosts of Christmas Past, Christmas Present and Christmas Yet to Come, show Scrooge how his mean behaviour has affected those around him. At the end of the story he is relieved to discover that there is still time for him to change and we see him transformed into a generous and kind-hearted human being.",
+        "cover": "https://th.bing.com/th/id/R.ba8211374bf3b4641234eee35fd303dc?rik=Rk5NYZ74Hv7Y9g&riu=http%3a%2f%2falessandria.bookrepublic.it%2fapi%2fbooks%2f9788898891207%2fcover&ehk=KBOhWMkxxXV5myYCtUJwgl3%2bMpRwWK49t4ncstKmE1c%3d&risl=&pid=ImgRaw&r=0",
+        "url": "https://www.amazon.in/Christmas-Carol-Charles-Dickens/dp/8175993278/ref=sr_1_1_sspa?crid=JSDVMCHZX7TB&keywords=a+christmas+carol&qid=1698774451&sprefix=a+christmas+carol+%2Caps%2C234&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "William",
+          "last_name": "Golding"
+        },
+        "review": {
+          "name": "Enisform",
+          "body": "The story of the gentle, mostly vegetarian Neanderthal tribe that is all but obliterated in a meeting with wandering Homo sapiens. Told almost entirely from the viewpoint of Lok, a slightly dim Neanderthal \"with many words and no pictures,\" it’s an interesting story and a sad one.\nBut the power of the tale is softened considerably by Golding’s laborious, descriptive prose. At times I found it very hard to understand what was going on, as the Homo sapiens’ activities – drinking wine, portaging boats, arguing – were described in Lok’s terms at length, with little clarity. Discounting those passages, the novel was a good one, capped off quite amazingly with two more narrative voices. First we see Lok as a hairy “creature,” an “it,” and then finally we hear the story from the view of one of the humans, who, it turns out, are as scared and confused as the Neanderthals, whom they consider fierce devils. A skillful comment on how far humans have come from a natural state of innocence, acceptance and wonder."
+        },
+        "_id": "654a1ca6aceafbe13e8ec162",
+        "book_id": 31,
+        "title": "The Inheritors",
+        "pages": 272,
+        "genres": [
+          "Classics",
+          "Fiction",
+          "Science Fiction",
+          "Prehistory",
+          "Fantasy",
+          "Literature",
+          "Historical"
+        ],
+        "rating": 3.52,
+        "plot": "At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate; this far from civilization the boys can do anything they want. Anything. They attempt to forge their own society, failing, however, in the face of terror, sin and evil. And as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far from reality as the hope of being rescued. Labeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, Lord of the Flies is perhaps our most memorable novel about “the end of innocence, the darkness of man’s heart.”",
+        "cover": "https://img1.od-cdn.com/ImageType-400/1515-1/B97/B4A/FE/%7BB97B4AFE-5ABE-4B5B-8087-6E5303C502C3%7DImg400.jpg",
+        "url": "https://www.amazon.in/Inheritors-William-Golding/dp/057136232X/ref=sr_1_2?crid=3K5DKXW9UQ9MH&keywords=The+Inheritors&nsdOptOutParam=true&qid=1699355340&sprefix=the+inheritors%2Caps%2C198&sr=8-2",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "William",
+          "last_name": "Golding"
+        },
+        "review": {
+          "name": "Julian",
+          "body": "Pincher Martin is on a navy vessel escorting a North Atlantic convoy during WWII. His ship is torpedoed and sinks, but Martin is the sole survivor and ends up on a rock on his own in the middle of the ocean. The book is entirely set on this rock.\nHe is exposed and isolated surrounded by the sea, the sun, the cold and his evident isolation. He is injured, he is hungry, but it's his thoughts that are the most terrifying as he remembers incidents from his past that he regrets and perhaps wishes he'd handled differently. He organises a pool of rainwater for drinking and eats shellfish which give him food poisoning. He gives names to features of the rock to make it homely, but there's no escape from himself."
+        },
+        "_id": "654a1ee6aceafbe13e8ec165",
+        "book_id": 32,
+        "title": "Pincher Martin ",
+        "pages": 216,
+        "genres": [
+          "Classics",
+          "Fiction",
+          "Modern",
+          "Literary Fiction",
+          "Fantasy",
+          "Literature"
+        ],
+        "rating": 3.56,
+        "plot": "The sole survivor of a torpedoed destroyer is miraculously cast up on a huge, barren rock in mid-Atlantic. Pitted against him are the sea, the sun, the night cold, and the terror of his isolation.\nAt the core of this raging tale of physical and psychological violence lies Christopher Martin’s will to live as the sum total of his life.",
+        "cover": "https://live.staticflickr.com/6191/6129346729_1db326be11_b.jpg",
+        "url": "https://www.amazon.in/Pincher-Martin-William-Golding/dp/0571298508/ref=sr_1_1?crid=39G5R10WRO8M0&keywords=Pincher+Martin&qid=1699355829&sprefix=pincher+martin%2Caps%2C188&sr=8-1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "Aldous",
+          "last_name": "Huxley"
+        },
+        "review": {
+          "name": "Sean",
+          "body": "“But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.”\nThese are words uttered in the face of tyranny and complete oppression, though they are very rare words to be spoken or even thought of in this world because every human passion and sense of creativity is repressed and eradicated through a long and complex process of conditioning.\nAnd that’s what makes this novel so powerful; it’s not unbelievable. Like Orwell’s 1984 and Atwood’s The Handmaid’s Tale, there’s just enough truth within Brave New World for it to be real. It’s a cruel mirroring of our own existence, should we follow a certain path too strongly. And that's the wonder of speculative fiction, though unlike the other two books, there’s no violence involved in Huxley’s world. It’s just as controlling and scary, but it’s done in a more indirect way.\nSex is on tap, everybody should be happy.\nPeople don’t go missing in the night nor are they stoned to death by a group of their peers, but they have just as little freedom (even if they don’t realise it.) In this dystopia they are trained from birth to think and feel in a certain way, and, for whatever reason, should they ever deviate from their ordained path, they are fed drugs that induce happiness and serenity; thus, the populace is kept within their desired space, and persist with the tasks they were born to do. Very few of them even consider that this is wrong; this is all they have known. And to make things even more maniacally clever, all physical and sexual needs are fulfilled completely as everybody belongs to everybody else in every sense with the ultimate goal of people never developing desire. All desire should be fulfilled, nobody wants for anything else.\nPeople are machines and houses are factories. They are mass produced and designed to be one thing and one thing only. All values are inverted. The idea of showing any emotion is horrific and repulsive. Love is unknown and alien. Death is associated with sweetness and relief. Children are fed candy when they are thought about death, so they associate the two together, so when as adults they see death they think of treats rather than the loss of someone they have known and worked beside for years.\nI can only admire and praise Huxley’s genius through the writing. Like all effective dystopian societies, reading and information plays an exceedingly important role. As with Ray Bradbury'sFahrenheit 451, all books have been destroyed and made inaccessible. John, one of the few characters who was born away from the new world, stumbles across a volume of Shakespeare and it changes his life. He can only think and feel in Shakespearean language and begins to view the world through a semi-romantic lens and only finds depravity when he walks into the new world.\nIt’s everything he hates. He has been termed the savage, though he knows and understands the real meaning of the term even if those who call him such do not. Naturally, he becomes depressed and isolated in this new space, a space that he cannot be a part of or accepted in (not that he would want to be.) And I found him by far the most interesting and compelling character within the story because he is the only one to really look beyond the boundaries of his own experience and to find it wanting.\nSo this is a terribly important novel and I can’t believe I have only just read it. If you haven’t read it already, you know what you have to do. This isn’t something to be missed. It’s a novel that made me think and imagine in a way a book hasn’t done in quite some time."
+        },
+        "_id": "655da872b6a14936844ccc15",
+        "book_id": 50,
+        "title": "Brave New World",
+        "pages": 235,
+        "genres": [
+          "Classics",
+          "Fiction",
+          "Science Fiction",
+          "Fantasy",
+          "Dystopia",
+          "Literature",
+          "Philosophy"
+        ],
+        "rating": 3.99,
+        "plot": "Aldous Huxley's profoundly important classic of world literature, Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order–all at the cost of our freedom, full humanity, and perhaps also our souls. “A genius who spent his life decrying the onward march of the Machine”, Huxley was a man of incomparable talents: equally an artist, a spiritual seeker, and one of history’s keenest observers of human nature and civilization. Brave New World, his masterpiece, has enthralled and terrified millions of readers, and retains its urgent relevance to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying work of literature. Written in the shadow of the rise of fascism during the 1930s, Brave New Worldd likewise speaks to a 21st-century world dominated by mass-entertainment, technology, medicine and pharmaceuticals, the arts of persuasion, and the hidden influence of elites.",
+        "cover": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/6f32be52769923.5608ee179b08e.jpg",
+        "url": "https://www.amazon.in/Brave-New-World-Aldous-Huxley/dp/9390315379/ref=sr_1_1_sspa?crid=1AQ27IOMF3Z5I&keywords=Brave+New+World&qid=1700635576&sprefix=brave+new+world%2Caps%2C283&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "Aldous",
+          "last_name": "Huxley"
+        },
+        "review": {
+          "name": "Mohit",
+          "body": "Let me open the review with a bold but defensible statement: This work has no literary merit. This \"sci-fi\" (Huxley couple were not happy that this work was considered a science fiction) utopian novel is a vehicle to deliver what Huxley believed to be The answer to one of the most critical questions of our existence - we know the present value systems are fucked up but what is the alternative? The Island, Pala, is where Huxley materializes in words his vision, relying and borrowing heavily from Eastern religious philosophies, particularly those of Buddhism and Hinduism.\nThe systems suggested are ingenious as such (even while they are derivative) and thought provoking, if the book is an initiation to the alternate world-views presented here (and the book did serve as an introduction for much of the western audience at that time). I was extremely skeptical of the book's promise after being disappointed by the overenthusiam of Huxley in The Doors of Perception, but here, Huxley shows he is not just an enthusiast but a true intellectual, that his understanding of the spiritual philosophies is not a mere fascination of its promises and mysteries and the rich metaphysics. Thus, what could have been a ridiculous/didactic/dull work, becomes a serious suggestion for the reader's consideration. Add to that Huxley's insights into the Western man's (or at least the Western-man-of-that-time's - the Hero's) innate dilemmas and insecurities and their root causes. To profess a final answer to any question one must first have a deep understanding of the question itself. This Huxley exhibits with careful sensitivity, as much as an exhibition of careful sensitivity is permitted by the novel's form/genre.\nAlso, while the book may not be read for fun alone it is a lot of fun. Some of the side characters are caricatured, the dialogues are often witty and the hero has a self-acerbic humor. This helps while the reader is being educated.\nReading this will remind you of Avatar, of Dances with the Wolves, of Razor's Edge. It will also remind you very much of the movie Mindwalk, provided you have seen it (chances are you haven't and I highly recommend it if you haven't). So, if you know what you are going for and are still curious/open-minded, go for it.\nThe book was a dying man's earnest attempt to show the troubled world what he thought was a glimmer of hope."
+        },
+        "_id": "655dd5093c32d8f904fe6588",
+        "book_id": 55,
+        "title": "Island",
+        "pages": 354,
+        "genres": [
+          "Classics",
+          "Fiction",
+          "Science Fiction",
+          "Literature",
+          "Philosophy",
+          "Dystopia",
+          "Fantasy",
+          "Utopia"
+        ],
+        "rating": 3.86,
+        "plot": "“Island” is a novel by Aldous Huxley, published in 1962. It serves as the author’s final work before his death.\nWill Farnaby, a cynical journalist and political huckster, deliberately shipwrecks his boat on the shores of the Kingdom of Pala, an island located between Sumatra and the Andaman Islands.\nPala is an otherwise “forbidden island” that Farnaby infiltrates. His task is to persuade the island’s current queen, the Rani, to sell oil rights to Pala’s untapped oil assets.\nFarnaby awakens on the island with a leg injury and encounters a unique culture. Pala combines elements of western science and oriental philosophy, including principles from Buddhism, Taoism, Hinduism, and Confucianism.\nDuring his time on Pala, Farnaby undergoes a transformation. He shifts from a cynical Westerner to someone who embraces the Palanese alternative to the exploitative capitalism prevalent in the West.\n“Island” serves as Huxley’s utopian counterpart to his more famous dystopian novel, “Brave New World”. While the plot exists, it primarily serves as a vehicle for exploring conceptual ideas rather than adhering to conventional narrative tension.\nThe clash between Pala’s harmonious society and Farnaby’s external influences creates thought-provoking reflections on culture, spirituality, and the pursuit of a better world.",
+        "cover": "https://th.bing.com/th/id/OIP.HXK_2mjT1tgiWFGRcriSdAHaLX?rs=1&pid=ImgDetMain",
+        "url": "https://www.amazon.in/Island-Aldous-Huxley/dp/0099477777/ref=sr_1_1?crid=JABXP8UNGJ26&keywords=island+aldous+huxley&qid=1700646998&sprefix=Island+Aldous+%2Caps%2C325&sr=8-1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "Kazuo",
+          "last_name": "Ishiguro"
+        },
+        "review": {
+          "name": "Beth",
+          "body": "I felt a tremendous sense of relief that I had finally completed Ishiguros’s The Unconsoled. I allowed myself to remember the experience of reading it, with its unusual memory-impaired narrator and the endless stream of absurdity and satire, and its improbable, dream-like narration. The more I thought about it, the more it seemed like it would make the perfect subject for a Goodreads review. I worried a bit about the time it would take to make my feelings clear about the book, but after looking around my office, seeing the sun was streaming through the windows and all of my other duties of the day were happening on schedule, it seemed to be the perfect time to start my review. There would be plenty of time in the day for my other duties. In fact, the more I considered it, the more I relished the idea of really striking a nerve with my fellow Goodreads readers. This could, in fact, be the very review that could pull the Goodreads community together once and for all. Yes, a concise, well-written review is just what was needed, indeed I felt quite keenly that I had a responsibility to be the one to write it.\nAnd it is true, many people may well read this review. Dare I say, among the readers of this review might well be many discerning readers and perhaps a writer or two. Perhaps Mr. Ishiguro himself visits Goodreads! I imagine him in his fashionable London flat, asking his assistant to explain to his publishers and his agent and all of his various arrangers hoping that he will offer a reading or a lecture about his work that he himself was entirely transformed personally by my very words! Perhaps my review will help him to understand his own book, with its metaphors, mystery, and magnificent surrealism even more completely than when he was writing it!\nImagining this energized me greatly, and as the light was waning I sat down to begin my review. I was just reaching for my opening words when I noted my morning’s work, still incomplete, on the screen. In the excitement of contemplating a brilliant review of The Unconsoled, I had completely forgotten to complete my responsibilities. I glanced at the time on my computer and saw I had a few minutes remaining before my deadline. In a matter of moments my clients would be calling me, asking for their reports. I figured that I could get a good bit done with the time I had remaining. I placed my hands on the keyboard."
+        },
+        "_id": "655ed8bf8c03f9e62c991492",
+        "book_id": 62,
+        "title": "The Unconsoled",
+        "pages": 544,
+        "genres": [
+          "Fiction",
+          "Historical Fiction",
+          "Literary Fiction",
+          "Historical",
+          "Classics",
+          "Contemporary",
+          "Fantasy",
+          "Music"
+        ],
+        "rating": 3.58,
+        "plot": "“The Unconsoled” by Kazuo Ishiguro is a novel that weaves a dreamlike tapestry of identity, memory, and redemption. Set in an unnamed central European city during the 1990s, the story revolves around Ryder, a renowned classical pianist. Ryder arrives in the city to perform a concert, but he is perpetually puzzled by an inability to remember why he is there or where he needs to be next. The maddeningly solicitous and demanding local citizens add to his confusion. Despite its dreamlike atmosphere, the novel is hyper-realistic, portraying the enigmatic precision of everyday life. It raises questions about individual identity, our connections with others, and the fundamental nature of existence. A masterpiece that leaves us pondering: Who is Ryder? Where did he come from? Why is he here? And where is he going next?",
+        "cover": "https://th.bing.com/th/id/R.0b798a6a83fc1bb58f6bc8a6512e28b9?rik=59V%2fcAQAzc0bMg&riu=http%3a%2f%2fd.gr-assets.com%2fbooks%2f1387742747l%2f1034389.jpg&ehk=LYB%2bAwhljbx2pvveWWyFq48TKCCZ2TGtso9ooII4AkE%3d&risl=&pid=ImgRaw&r=0",
+        "url": "https://www.amazon.in/Unconsoled-Kazuo-Ishiguro/dp/0571283896/ref=sr_1_1?crid=FZ4ADRR66CZA&keywords=The+Unconsoled&qid=1700714261&sprefix=the+unconsoled%2Caps%2C285&sr=8-1",
+        "__v": 0
+      }
+    ],
+    "for_you": [
+      {
+        "author": {
+          "first_name": "Emily",
+          "last_name": "Bronte"
+        },
+        "_id": "652bb7d9ae3079c307c4e647",
+        "book_id": 7,
+        "title": "Wuthering Heights",
+        "pages": 416,
+        "genres": ["Gothic fiction", "Romance", "Tragedy", "drak-spooky"],
+        "rating": 3.8,
+        "plot": "In the late winter months of 1801, a man named Lockwood rents a manor house called Thrushcross Grange in the isolated moor country of England. Here, he meets his dour landlord, Heathcliff, a wealthy man who lives in the ancient manor of Wuthering Heights, four miles away from the Grange. In this wild, stormy countryside, Lockwood asks his housekeeper, Nelly Dean, to tell him the story of Heathcliff and the strange denizens of Wuthering Heights. Nelly consents, and Lockwood writes down his recollections of her tale in his diary; these written recollections form the main part of Wuthering Heights.",
+        "reviews": {
+          "name": "Emily",
+          "body": "Not all stories have to be cheerful with happy endings - after all that's life, but it is how we respond to those that defines us. This brings me straight to the characterisation in the book, which is absolutely superb. Whether you like or loathe these characters, there is no doubt they were brilliantly cast. In fact, as a character study not one of the characters can elicit a single ounce of admiration from its readers, with the exception of the young Cathy and Hareton. Yet they all make tremendous book characters.The writing style is perfect for the storyline and even the dull palette colours depicting the moors and weather reflects the mood of the book and sense of forlorn and hopelessness, as does Wuthering Heights itself. A place naked to the elements, with surroundings that are untamed and raw that mirror the characters central to the story."
+        },
+        "cover": "https://th.bing.com/th/id/R.56455f681bdd8767e806f76be006bdca?rik=47BZwvJmMrUBPQ&riu=http%3a%2f%2fassets.allenandunwin.com.s3.amazonaws.com%2fimages%2foriginal%2f9780571337118.jpg&ehk=nRjkVhb9omqg9ee5rtw3mvERugf1a29dwSSdI7kV5RY%3d&risl=&pid=ImgRaw&r=0",
+        "url": "https://www.amazon.in/Wuthering-Heights-Penguin-Classics-Bront%C3%AB/dp/0141439556/ref=sr_1_5?crid=3LF21SQWNFRVC&keywords=Wuthering+Heights&qid=1697357836&sprefix=wuthering+heights%2Caps%2C196&sr=8-5"
+      },
+      {
+        "author": {
+          "first_name": "Charles",
+          "last_name": "Dickens"
+        },
+        "review": {
+          "name": "Laura",
+          "body": "Years of teaching this novel to teenagers never dimmed my thrill in reading it — if anything, I grew to love it more every time I watched kids gasp aloud at the revelations! Critics are divided on its place in the Dickens canon, but the ones who think it an inferior work are simply deranged. It has everything: dark deeds, revolution, madness, love, thwarted love, forgiveness, revenge, and a stunning act of self-sacrifice. And melodrama! Oh, how Dickens loved melodrama, but in A Tale of Two Cities it reaches truly grand proportions.\nIt’s the ultimate mystery novel: characters act strangely, but always for a reason. Miscellaneous people drift in and out, but they’re not truly miscellaneous — you just have to wait to see how they’re connected. And like any good mystery, the payoff at the end is worth the time it takes to get there...and what a payoff! Dickens is a master of the type of narration that simultaneously moves forward and back in time. In other words, strategically placed revelations from the past inform the present and shape the future. The brilliant timing both of his hints and of the actual revelations is a bonus field of study. Merely the drama of the dark past and its impact on the “here and now” story is thrilling enough. Plus, A Tale of Two Cities is a profoundly moral story, with themes of vengeance versus forgiveness, sins of the fathers being visited on the children, resurrection and rebirth, and the possibility of redemption."
+        },
+        "_id": "65407469e3598558b375316c",
+        "book_id": 16,
+        "title": "A Tale of Two Cities",
+        "pages": 489,
+        "genres": [
+          "Classics",
+          "Historical",
+          "Literature",
+          "Historic fiction",
+          "Fiction",
+          "19th Century",
+          "School"
+        ],
+        "rating": 3.87,
+        "plot": "A Tale of Two Cities is Charles Dickens’s great historical novel, set against the violent upheaval of the French Revolution. The most famous and perhaps the most popular of his works, it compresses an event of immense complexity to the scale of a family history, with a cast of characters that includes a bloodthirsty ogress and an antihero as believably flawed as any in modern fiction. Though the least typical of the author’s novels, A Tale of Two Cities still underscores many of his enduring themes—imprisonment, injustice, social anarchy, resurrection, and the renunciation that fosters renewal.",
+        "cover": "https://onlinereadfreenovel.com/i2/1707052207/8328_a_tale_of_two_cities.jpg",
+        "url": "https://www.amazon.in/Tale-Two-Cities-Charles-Dickens/dp/8171674070/ref=sr_1_1_sspa?crid=231HTZ2B6MR32&keywords=A+Tale+of+Two+Cities+by+charles+dickens&nsdOptOutParam=true&qid=1698722668&sprefix=a+tale+of+two+cities+by+charles+dickens%2Caps%2C577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "Charles",
+          "last_name": "Dickens"
+        },
+        "review": {
+          "name": "Piyangie",
+          "body": "Hard Times is Dickens's shortest novel. Through a well outlined and well-written story, Dickens comments on the lives, living, and conditions of towns in the light of industrialization. This social commentary gives a perfect picture of the lives and conditions of living of working-class people and the dominating power exercised on them by their masters over every aspect of their lives, suppressing them and using them to secure their wealth and position in life.\nThere is also a strong criticism of utilitarianism. This theory was introduced in the aftermath of the industrial revolution to make it easy for the masters to control the working class, depriving them of any capacity to reason and making them live a submissive life according to their whims and fancies. Dickens's use of Facts against Reason throughout the book subtly mocks the theory and exposes the social downfall that it would lead to. He brings the character of Louisa Gradgrind and demonstrates what tragedies one would face if they are suppressed of their capacity to feel and to reason. Although it is a little overstated, the point is clearly proved.\nI liked the character variety in the book. They ranged from kind, goodhearted, sweet-tempered to cunning, boastful, treacherous. This wide variety added colour and contrast to the book. The story was engaging, his social views kept me well connected with it all along. I enjoyed his satire very much. Dickens is a realistic writer of the Victorian era and that is the secret of his popularity even today."
+        },
+        "_id": "6549ee4cbb6ef54f8f7d8ebb",
+        "book_id": 21,
+        "title": "Hard Times",
+        "pages": 384,
+        "genres": [
+          "Classics",
+          "Historical",
+          "Literature",
+          "Historical fiction",
+          "Fiction",
+          "19th Century",
+          "Victorian"
+        ],
+        "rating": 3.54,
+        "plot": "\"My satire is against those who see figures and averages, and nothing else,\" proclaimed Charles Dickens in explaining the theme of this classic novel. Published in 1854, the story concerns one Thomas Gradgrind, a \"fanatic of the demonstrable fact,\" who raises his children, Tom and Louisa, in a stifling and arid atmosphere of grim practicality.\nWithout a moral compass to guide them, the children sink into lives of desperation and despair, played out against the grim background of Coketown, a wretched community shadowed by an industrial behemoth. Louisa falls into a loveless marriage with Josiah Bouderby, a vulgar banker, while the unscrupulous Tom, totally lacking in principle, becomes a thief who frames an innocent man for his crime. Witnessing the degradation and downfall of his children, Gradgrind realizes that his own misguided principles have ruined their lives.\nConsidered Dickens' harshest indictment of mid-19th-century industrial practices and their dehumanizing effects, this novel offers a fascinating tapestry of Victorian life, filled with the richness of detail, brilliant characterization, and passionate social concern that typify the novelist's finest creations.",
+        "cover": "https://th.bing.com/th/id/OIP.ZVNHI-efgq42MPmSzH2YfQHaLH?pid=ImgDet&rs=1",
+        "url": "https://www.amazon.in/Hard-Times-Charles-Dickens/dp/9386538342/ref=sr_1_1?crid=2VZKMEH8DB6SU&keywords=Hard+Times+by+charles+dickens&qid=1699343356&sprefix=hard+times+by+charles+dickens%2Caps%2C248&sr=8-1",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "George",
+          "last_name": "Eliot"
+        },
+        "review": {
+          "name": "Rebecca",
+          "body": "The Mill on the Floss is funny and moving and philosophical. Eliot does so many different things well; she's witty and detached, and then she writes a love scene that makes your knees go wobbly. Middlemarch struck me the same way - it's incredibly romantic, and then it does things with that romance, crazy thematic plot things, that sometimes make you feel like the author has punched you in the stomach.\nThe novel is also cool because it's sort of a novel about adultery without actually being about adultery. It feels very modern and unflinching, the more so because George Eliot actually spent much of her adult life in a happy but socially-isolating relationship out of wedlock, so she had perspective on The System.\nThe last couple hundred pages are incredibly intense, perhaps the more so because I read them in one go on a very long train ride, most of which was spent on the edge of my (not very comfortable) seat. It's one of those novels whose ending is absolutely unguessable and yet feels vitally important; \"Holy crap,\" I asked myself, \"how is this going to end, and will I be able to live a happy and well-adjusted life after I finish it?\"\nI'm still working on that happy and well-adjusted part. The ending... well, is it ever an ending. Words like \"mythic\" and \"apocalyptic\" do not give it justice. I'm still not sure how I feel about it - in some ways she gave me just the ending I didn't want, but she did it in such a way that I had to admire. Also, it is very, very intriguing and makes me want to write essays about it, which is usually a good thing.\nGreat characters, great plot, great themes. A very well-rounded novel."
+        },
+        "_id": "654a10d6aceafbe13e8ec153",
+        "book_id": 26,
+        "title": "The Mill on the Floss",
+        "pages": 579,
+        "genres": [
+          "Classics",
+          "Historical fiction",
+          "Literature",
+          "Victorian",
+          "Fiction",
+          "19th Century"
+        ],
+        "rating": 3.82,
+        "plot": "'If life had no love in it, what else was there for Maggie?'\nBrought up at Dorlcote Mill, Maggie Tulliver worships her brother Tom and is desperate to win the approval of her parents, but her passionate, wayward nature and her fierce intelligence bring her into constant conflict with her family. As she reaches adulthood, the clash between their expectations and her desires is painfully played out as she finds herself torn between her relationships with three very different men: her proud and stubborn brother, a close friend who is also the son of her family's worst enemy, and a charismatic but dangerous suitor. With its poignant portrayal of sibling relationships, The Mill on the Floss is considered George Eliot's most autobiographical novel; it is also one of her most powerful and moving.",
+        "cover": "https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss/downloads/cover.jpg",
+        "url": "https://www.amazon.in/Mill-Floss-George-Eliot/dp/8175993839/ref=sr_1_2?crid=A8TLRONCWWUK&keywords=The+Mill+on+the+Floss&nsdOptOutParam=true&qid=1699352178&sprefix=the+mill+on+the+floss%2Caps%2C221&sr=8-2",
+        "__v": 0
+      },
+      {
+        "author": {
+          "first_name": "William",
+          "last_name": "Golding"
+        },
+        "review": {
+          "name": "Sharon",
+          "body": "In this volume, Edmund Talbot has completed his 'journal' which he was keeping for his godfather and embarks on a more personal narrative for the rest of his voyage. His voice changes significantly now that he is no longer writing for the benefit of his influential patron, becoming much less constrained and pompous. We begin to see who Edmund really is - a very young man of privilege who has led a sheltered, inexperienced life. That all changes now. Talbot gradually becomes on more and more familiar terms with both the ship's officers and his fellow passengers. He sees and goes through things that alter him permanently. He also encounters a young woman who he cannot forget. There are interpersonal dramas, shipwide tragedies, moments of both humor and dark despair. This is the crux of Talbot's voyage and his growth as a human being.\nI enjoyed this second volume much more than the first, doubtless because Talbot moves away from his pretensions and begins to grow into a man of experience and real feeling. The other characters are broad and colorful enough to fill any soap opera and the action is unrelenting."
+        },
+        "_id": "654a2d74aceafbe13e8ec177",
+        "book_id": 38,
+        "title": "Close Quarters",
+        "pages": 320,
+        "genres": [
+          "Classics",
+          "Fiction",
+          "Literary Fiction",
+          "Historical",
+          "Literature",
+          "Historical Fiction",
+          "Adventure"
+        ],
+        "rating": 3.81,
+        "plot": "Close Quarters, the second volume of William Golding’s ‘To the Ends of the Earth’ trilogy, continues the maritime saga. In this novel, Edmund Talbot, having completed his journal from the previous volume, embarks on a more personal narrative during the voyage. The story unfolds aboard a decrepit warship becalmed halfway to Australia. The ship drifts in an ocean wilderness of heat and sea mists. Amid this surreal atmosphere, a ball is held, and passengers dance and flirt. However, beneath the festivities, thickets of weed cling to the hull, and the ship itself begins to unravel.",
+        "cover": "https://s3-ap-southeast-2.amazonaws.com/assets.allenandunwin.com/images/original/9780571298563.jpg",
+        "url": "https://www.amazon.in/Close-Quarters-William-Golding/dp/0571298567/ref=sr_1_2?crid=ROQIU9J23U1&keywords=Close+Quarters+by+william+golding&qid=1699359597&sprefix=close+quarters+by+william+golding%2Caps%2C291&sr=8-2",
+        "__v": 0
+      }
+    ],
+    "money" :[
+      
+        {
+          "id": "40121378-atomic-habits",
+          "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+          "author": "James Clear",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY500_.jpg",
+          "rating": "4.37"
+        },
+        {
+          "id": "15801668-the-girls-of-atomic-city",
+          "title": "The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II",
+          "author": "Denise Kiernan",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352912866l/15801668._SY500_.jpg",
+          "rating": "3.71"
+        },
+        {
+          "id": "16884.The_Making_of_the_Atomic_Bomb",
+          "title": "The Making of the Atomic Bomb",
+          "author": "Richard Rhodes",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440621221l/16884._SY500_.jpg",
+          "rating": "4.38"
+        },
+        {
+          "id": "35069547-the-atomic-city-girls",
+          "title": "The Atomic City Girls",
+          "author": "Janet Beard",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501532758l/35069547._SY500_.jpg",
+          "rating": "3.53"
+        },
+        {
+          "id": "53360084-atomic-love",
+          "title": "Atomic Love",
+          "author": "Jennie Fields",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589121176l/53360084._SY500_.jpg",
+          "rating": "3.64"
+        },
+        {
+          "id": "58684535-atomic-anna",
+          "title": "Atomic Anna",
+          "author": "Rachel Barenbaum",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643682020l/58684535._SY500_.jpg",
+          "rating": "3.80"
+        },
+        {
+          "id": "25810606-the-atomic-weight-of-love",
+          "title": "The Atomic Weight of Love",
+          "author": "Elizabeth J. Church",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459102377l/25810606._SY500_.jpg",
+          "rating": "3.93"
+        },
+        {
+          "id": "25897720-the-winter-fortress",
+          "title": "The Winter Fortress: The Epic Mission to Sabotage Hitler's Atomic Bomb",
+          "author": "Neal Bascomb",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443466025l/25897720._SY500_.jpg",
+          "rating": "4.23"
+        },
+        {
+          "id": "42779062-the-bastard-brigade",
+          "title": "The Bastard Brigade: The True Story of the Renegade Scientists and Spies Who Sabotaged the Nazi Atomic Bomb",
+          "author": "Sam Kean",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559868522l/42779062._SY500_.jpg",
+          "rating": "4.32"
+        },
+        {
+          "id": "13166598-trinity",
+          "title": "Trinity: A Graphic History of the First Atomic Bomb",
+          "author": "Jonathan Fetter-Vorm",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353461506l/13166598._SY500_.jpg",
+          "rating": "4.12"
+        },
+        {
+          "id": "50452295-countdown-1945",
+          "title": "Countdown 1945: The Extraordinary Story of the Atomic Bomb and the 116 Days That Changed the World (Chris Wallace’s Countdown Series)",
+          "author": "Chris Wallace",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578971705l/50452295._SY500_.jpg",
+          "rating": "4.25"
+        },
+        {
+          "id": "43431483-atomic-marriage",
+          "title": "Atomic Marriage",
+          "author": "Curtis Sittenfeld",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546507643l/43431483._SY500_.jpg",
+          "rating": "2.85"
+        },
+        {
+          "id": "61453100-midcentury-cocktails",
+          "title": "Midcentury Cocktails: History, Lore, and Recipes from America's Atomic Age",
+          "author": "Cecelia Tichi",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657896164l/61453100._SY500_.jpg",
+          "rating": "3.75"
+        },
+        {
+          "id": "3474928-atomic-robo-and-the-fightin-scientists-of-tesladyne",
+          "title": "Atomic Robo and the Fightin' Scientists of Tesladyne (Atomic Robo, #1)",
+          "author": "Brian Clevinger",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347271973l/3474928._SY500_.jpg",
+          "rating": "4.14"
+        },
+        {
+          "id": "1286943.Atomic_Lobster",
+          "title": "Atomic Lobster (Serge Storms, #10)",
+          "author": "Tim Dorsey",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388693295l/1286943._SY500_.jpg",
+          "rating": "4.02"
+        },
+        {
+          "id": "27753938-tokyo-ghost-vol-1",
+          "title": "Tokyo Ghost, Vol. 1: Atomic Garden",
+          "author": "Rick Remender",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456502365l/27753938._SY500_.jpg",
+          "rating": "4.02"
+        },
+        {
+          "id": "20579068-atomic-accidents",
+          "title": "Atomic Accidents: A History of Nuclear Meltdowns and Disasters: From the Ozark Mountains to Fukushima",
+          "author": "James Mahaffey",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396783468l/20579068._SY500_.jpg",
+          "rating": "4.22"
+        },
+        {
+          "id": "35496817-atomic-design",
+          "title": "Atomic Design",
+          "author": "Brad Frost",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498137521l/35496817._SY500_.jpg",
+          "rating": "4.02"
+        },
+        {
+          "id": "23172739-mission-atomic",
+          "title": "Mission Atomic (The 39 Clues: Doublecross, #4)",
+          "author": "Sarwat Chadda",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468287017l/23172739._SY500_.jpg",
+          "rating": "4.28"
+        },
+        {
+          "id": "16248513-plutopia",
+          "title": "Plutopia: Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters",
+          "author": "Kate Brown",
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358752376l/16248513._SY500_.jpg",
+          "rating": "4.16"
+        }
+      
+    ],
+    "other_books":[
+      {
+        "id": "28257707-the-subtle-art-of-not-giving-a-f-ck",
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "author": "Mark Manson",
+        "rating": "3.90",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SY500_.jpg"
+      },
+      {
+        "id": "4865.How_to_Win_Friends_and_Influence_People",
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "rating": "4.21",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY500_.jpg"
+      },
+      {
+        "id": "69571.Rich_Dad_Poor_Dad",
+        "title": "Rich Dad, Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "rating": "4.12",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388211242l/69571._SY500_.jpg"
+      },
+      {
+        "id": "41721428-can-t-hurt-me",
+        "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+        "author": "David Goggins",
+        "rating": "4.35",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536184191l/41721428._SY500_.jpg"
+      },
+      {
+        "id": "41881472-the-psychology-of-money",
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "rating": "4.34",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581527774l/41881472._SY500_.jpg"
+      },
+      {
+        "id": "36072.The_7_Habits_of_Highly_Effective_People",
+        "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "author": "Stephen R. Covey",
+        "rating": "4.15",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SY500_.jpg"
+      },
+      {
+        "id": "12609433-the-power-of-habit",
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "author": "Charles Duhigg",
+        "rating": "4.13",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY500_.jpg"
+      },
+      {
+        "id": "18050143-zero-to-one",
+        "title": "Zero to One: Notes on Startups, or How to Build the Future",
+        "author": "Peter Thiel",
+        "rating": "4.17",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630663027l/18050143._SY500_.jpg"
+      },
+      {
+        "id": "10127019-the-lean-startup",
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "rating": "4.11",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629999184l/10127019._SY500_.jpg"
+      },
+      {
+        "id": "11468377-thinking-fast-and-slow",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "rating": "4.17",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SY500_.jpg"
+      },
+      {
+        "id": "30186948-think-and-grow-rich",
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "rating": "4.21",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY500_.jpg"
+      },
+      {
+        "id": "76865.Good_to_Great",
+        "title": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "author": "James C. Collins",
+        "rating": "4.14",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546097703l/76865._SY500_.jpg"
+      },
+      {
+        "id": "368593.The_4_Hour_Workweek",
+        "title": "The 4-Hour Workweek",
+        "author": "Timothy Ferriss",
+        "rating": "3.93",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442957271l/368593._SY500_.jpg"
+      },
+      {
+        "id": "25744928-deep-work",
+        "title": "Deep Work: Rules for Focused Success in a Distracted World",
+        "author": "Cal Newport",
+        "rating": "4.18",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447957962l/25744928._SY500_.jpg"
+      },
+      {
+        "id": "6708.The_Power_of_Now",
+        "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+        "author": "Eckhart Tolle",
+        "rating": "4.16",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689947880l/6708._SY500_.jpg"
+      },
+      {
+        "id": "7108725-start-with-why",
+        "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "author": "Simon Sinek",
+        "rating": "4.10",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360936414l/7108725._SY500_.jpg"
+      },
+      {
+        "id": "23692271-sapiens",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "rating": "4.36",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SY500_.jpg"
+      },
+      {
+        "id": "37502596-the-5-am-club",
+        "title": "The 5 AM Club: Own Your Morning. Elevate Your Life",
+        "author": "Robin S. Sharma",
+        "rating": "3.82",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545910967l/37502596._SY500_.jpg"
+      },
+      {
+        "id": "30257963-12-rules-for-life",
+        "title": "12 Rules for Life: An Antidote to Chaos",
+        "author": "Jordan B. Peterson",
+        "rating": "3.91",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SY500_.jpg"
+      },
+      {
+        "id": "1303.The_48_Laws_of_Power",
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "rating": "4.15",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694722764l/1303._SY500_.jpg"
+      }
+    ]
+  }
+}
